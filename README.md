@@ -1,3 +1,3 @@
 # Python
 
-Kumpulan source code program python yang saya buat :D
+Kumpulan Source Code Python Yang Telah Saya Buat.
