@@ -123,7 +123,12 @@ def petuntuk_game():
     print ("||--------------------||")
     print ("||  C1  |  C2  |  C3  ||")
     print ("========================")
-    print("")
+    print ("")
+    print ("-------------")
+    print ("Player   : X ")
+    print ("Computer : O ")
+    print ("-------------")
+    print ("")
 
 list_pilihan = ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3"]
 list_pilihan_player = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
