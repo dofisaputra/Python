@@ -1,0 +1,1 @@
+target = ['si_nopal', 'codepolitan']
