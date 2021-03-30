@@ -1,2 +1,2 @@
-username = "username"
-password = "password"
+username = "username" # Ganti
+password = "password" # Ganti
