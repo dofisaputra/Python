@@ -82,7 +82,7 @@ def get_post(target, count=0):
     
     return list_post
         
-targets = ["narasi","kemkominfo","kemenkesri","kementerianesdm","kemensosri","kkp.go.id","kemenristekdikti","kemenpppa","kemenpupr","kemenparekraf","kemenkeuri","kemenpora_ri","kemenkomarves","kementerianesdm","mata.najwa"]
+targets = ["detikcom"]
 for target in targets:
     print(len(get_post(target=target)))
 
